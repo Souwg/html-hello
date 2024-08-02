@@ -1,0 +1,56 @@
+/* 1er post*/
+.post {
+    margin: auto;
+    width: 50%;
+}
+.estilo {
+    border: 2px solid black;
+}
+h1 {
+    text-align: center;
+}
+.post-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+h4 {
+    margin-left: 15px;
+    font-family: cursive;
+}
+span {
+    margin-right: 15px;
+    font-family: cursive;
+}
+.post-body {
+    background-color: white;
+}
+img {
+    width: 100%;
+}
+.post-footer {
+    padding: 25px;
+}
+p {
+    font-family: cursive;
+    text-align: justify;
+}
+#heart:hover {
+    color: red;
+}
+#comments:hover{
+    color: turquoise;
+}
+#share:hover {
+    color: silver;
+}
+#star:hover {
+    color: #aa0;
+}
+
+
+/* 2do post*/
+.post2 {
+    margin: auto;
+    width: 50%;
+    margin-top: 90px;
